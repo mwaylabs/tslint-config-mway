@@ -45,7 +45,7 @@ module.exports = {
     ], // 8.4
     'no-duplicate-imports': true, // 10.4
     'one-variable-per-declaration': [true, 'ignore-for-loop'], // 13.2
-    'no-increment-decrement': true, // 13.6
+    'no-increment-decrement': false, // 13.6
     'triple-equals': [true, 'allow-null-check'], // 15.1
     'no-boolean-literal-compare': true, // 15.3
     curly: [true, 'ignore-same-line'], // 16.1
@@ -74,7 +74,7 @@ module.exports = {
     'space-in-parens': [true, 'never'], // 19.9
     'array-bracket-spacing': [true, 'never'], // 19.10
     'object-curly-spacing': [true, 'always'], // 19.11
-    'max-line-length': [true, 100], // 19.12
+    'max-line-length': [true, {'limit': 160, 'ignore-pattern': '^import |^export {(.*?)}'}], // 19.12
     'block-spacing': true, // 19.13
     'ter-computed-property-spacing': true, // 19.15
     'ter-func-call-spacing': true, // 19.16
