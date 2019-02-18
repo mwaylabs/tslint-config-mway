@@ -120,11 +120,11 @@ module.exports = {
     "import-spacing": true,
     "interface-over-type-literal": true,
     "label-position": true,
-    "max-len": [
-      2,
+    "max-line-length": [
+      true,
       {
-        "code": 80,
-        "ignorePattern": "^import\\W.*"
+        "limit": 120,
+        "ignore-pattern": "^import |^export {(.*?)}"
       }
     ],
     "member-access": false,
