@@ -21,9 +21,10 @@ In `tslint.json`:
 ### Rules
 
 * [tslint](https://www.npmjs.com/package/tslint)
-* [tslint-consistent-codestyle](https://www.npmjs.com/package/tslint-consistent-codestyle)
+* [codelyzer](https://www.npmjs.com/package/codelyzer)
+* [tslint-defocus](https://www.npmjs.com/package/tslint-defocus)
 * [tslint-eslint-rules](https://www.npmjs.com/package/tslint-eslint-rules)
-* [tslint-microsoft-contrib](https://www.npmjs.com/package/tslint-microsoft-contrib)
+* [rxjs-tslint-rules](https://www.npmjs.com/package/rxjs-tslint-rules)
 
 ## Versioning
 
