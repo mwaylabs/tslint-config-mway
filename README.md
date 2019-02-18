@@ -1,5 +1,3 @@
-## This is a DRAFT and is not FINAL yet
-
 # TSLint Config M-Way
 
 > A [TSLint config](https://palantir.github.io/tslint/usage/configuration/) for M-Way Typescript Style Guide. Heavily inspired by [TSLint Config Airbnb](https://github.com/progre/tslint-config-airbnb)
