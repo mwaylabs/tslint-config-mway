@@ -209,6 +209,7 @@ module.exports = {
       true,
       "element",
       "app",
+      "page",
       "kebab-case"
     ],
     "use-input-property-decorator": true,
