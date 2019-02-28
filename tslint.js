@@ -209,6 +209,7 @@ module.exports = {
       true,
       "element",
       "app",
+      "page",
       "kebab-case"
     ],
     "use-input-property-decorator": true,
@@ -218,7 +219,7 @@ module.exports = {
     "no-output-rename": true,
     "use-life-cycle-interface": true,
     "use-pipe-transform-interface": true,
-    "component-class-suffix": true,
+    "component-class-suffix": [true, "Component", "View", "Page"],
     "directive-class-suffix": true
   },
 };
