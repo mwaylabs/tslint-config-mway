@@ -1,7 +1,7 @@
 {
   "name": "tslint-config-mway",
   "description": "A TSLint config for M-Way Solutions",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "mway",
   "bugs": {
     "url": "https://github.com/mwaylabs/tslint-config-mway/issues"
