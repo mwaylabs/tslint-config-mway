@@ -1,7 +1,7 @@
 {
   "name": "tslint-config-mway",
   "description": "A TSLint config for M-Way Solutions",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "author": "mway",
   "bugs": {
     "url": "https://github.com/mwaylabs/tslint-config-mway/issues"
@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "tslint": "^5.11.0",
-    "typescript": "~3.1.0"
+    "typescript": "^3.1.0"
   },
   "homepage": "https://github.com/mwaylabs/tslint-config-mway/#readme",
   "keywords": [
@@ -26,7 +26,7 @@
   "main": "tslint.js",
   "peerDependencies": {
     "tslint": "^5.11.0",
-    "typescript": "~3.1.0"
+    "typescript": "^3.1.0"
   },
   "repository": "github:mwaylabs/tslint-config-mway"
 }
